@@ -1,5 +1,8 @@
 # This is a test title one
 
+[![hackmd-github-sync-badge](https://hackmd.io/1iS_1RnSR6elwsvm18nbkQ/badge)](https://hackmd.io/1iS_1RnSR6elwsvm18nbkQ)
+
+
 here is a paragraph
 
 * some bullets
